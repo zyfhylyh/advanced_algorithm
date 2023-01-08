@@ -10,3 +10,4 @@
 
 我采用贪心算法以及建立数学优化模型来尽可能提高箱子的利用率，具体的实现方法以及结果可以查看report文件夹中的报告。
 针对3、5、8、10、15种箱子的情况，给出了5个用例，名称分别为use_case1.py、use_case2.py、use_case3.py、use_case4.py、use_case5.py，在add_box.py于这5个文件在同一文件夹的情况下，运行其中一个use_case就能得到相应的结果。
+如有疑问欢迎发送邮件到zyfhylyh at 126.com
